@@ -1,16 +1,16 @@
 ## Hi👋, I'm Abdullah Al Sahariar
 
-A passionate frontend developer🦸‍♂️ (specially in React) from bangladesh. Acting as a software engineer in frontend at [Space Cats](https://spacecats.tech/).
+A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Acting as a software engineer in frontend at [Shikho](https://shikho.com/).
 
-- 📅 Living and breating the programming since 2018.
+- 📅 Living and breathing the programming since 2018.
 - 🌱 Enjoy to learn and play with new technologies.
-- ✨ Create modern and interecting user interfaces.
-- 🗃️ Have experience to work on a variety type of projects.
+- ✨ Create modern and interactive user interfaces.
+- 🗃️ Have experience working on a variety types of projects.
 
 ## What I am focusing🔎 on
 
-- Improving React skills, system and architecture design, gethering experience in nextjs.
-- Looking forword to learn frontend testing tools and MERN stack.
+- Improving React skills, system and architecture design, gathering experience in nextjs.
+- Looking forward to learning frontend testing tools and MERN stack.
 
 <!--
 **shahariar50/shahariar50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
