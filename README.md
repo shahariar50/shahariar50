@@ -1,6 +1,6 @@
 ## Hi👋, I'm Abdullah Al Sahariar
 
-A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Acting as a software engineer in frontend at [Shikho](https://shikho.com/).
+A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Acting as a software engineer in frontend at [Fulflld](https://shikho.com/](https://www.fulflld.com/).
 
 - 📅 Living and breathing the programming since 2018.
 - 🌱 Enjoy to learn and play with new technologies.
