@@ -1,16 +1,19 @@
 ## Hi👋, I'm Abdullah Al Sahariar
 
-A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Acting as a software engineer in frontend at [Fulflld](https://www.fulflld.com/).
+A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Currently giving services on Fiverr. Hire me at fiverr[https://www.fiverr.com/s/42k6KoG]
 
-- 📅 Living and breathing the programming since 2018.
-- 🌱 Enjoy to learn and play with new technologies.
+- 📅 Living and breathing programming since 2018.
+- 🌱 Enjoy to learn and playing with new technologies.
 - ✨ Create modern and interactive user interfaces.
-- 🗃️ Have experience working on a variety types of projects.
+- 🗃️ Have experience working on a variety of types of projects.
 
 ## What I am focusing🔎 on
 
-- Improving React skills, system and architecture design, gathering experience in nextjs.
-- Looking forward to learning frontend testing tools and MERN stack.
+- Improving React skills, system, and architecture design, gathering experience in Next.js.
+- Experiencing full-stack testing and backend technologies.
+- Making interesting projects using Golang.
+- Kneen to learn infrastructure technologies.
+- New team lead. So, now I am experiencing the management sector.
 
 <!--
 **shahariar50/shahariar50** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
