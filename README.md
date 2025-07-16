@@ -2,7 +2,7 @@
 
 A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Currently giving services on Fiverr. Hire me at [fiverr](https://www.fiverr.com/s/42k6KoG)
 
-- 📅 Living and breathing programming since 2018.
+- 📅 Living and breathing programming since 2016.
 - 🌱 Enjoy to learn and playing with new technologies.
 - ✨ Create modern and interactive user interfaces.
 - 🗃️ Have experience working on a variety of types of projects.
