@@ -1,6 +1,6 @@
 ## Hi👋, I'm Abdullah Al Sahariar
 
-A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Currently giving services on Fiverr. Hire me at [fiverr](https://www.fiverr.com/s/42k6KoG)
+A passionate frontend developer🦸‍♂️ (especially in React) from Bangladesh. Currently working at [Vivasoft](https://vivasoftltd.com/) as a Senior Software Engineer.
 
 - 📅 Living and breathing programming since 2016.
 - 🌱 Enjoy to learn and playing with new technologies.
